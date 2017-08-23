@@ -289,6 +289,6 @@ def main():
 
 
 if __name__ == '__main__':
-    myappid = 'divisacapital.dusreporting.version1.0'  # arbitrary string
+    myappid = 'pythonscriptmonitor.version1.0'  # arbitrary string
     ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
     main()
