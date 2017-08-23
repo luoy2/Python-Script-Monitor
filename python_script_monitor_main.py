@@ -1,5 +1,5 @@
 from PyQt5 import QtWidgets, QtGui, QtCore, uic
-from ipython_console_widget import QIPythonWidget
+from ipython_console_page_widget import QIPythonWidget
 import os
 import logging
 import sys
