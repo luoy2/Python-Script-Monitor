@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>close.png</file>
+    <file>end.png</file>
+    <file>main_icon.jpg</file>
+    <file>open_folder.png</file>
+    <file>start.png</file>
+  </qresource>
+</RCC>

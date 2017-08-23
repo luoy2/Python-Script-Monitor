@@ -41,3 +41,24 @@ __Optional__
 1. single click the left panel button to switch between script
 2. double click the left panel name button to change script name; press `Enter` after finished editing
 3. under `menu` at the top left, you can save/load your configuration files (current script path and name)
+
+
+## Example
+I put two example files, one for testing log color change, another one for testing python shell status.
+
+One can simply open them, and using `save config` function inside `menu` bar to see whats going on
+
+
+## Known Bug
+1. sometimes after stop the shell and quickly restart the shell, qt window crahsed
+2. sometimes the status signal didn't emit to the button at left, thus button color does not change
+
+
+## To do
+1. add alerting function if any task went wrong
+    * email
+    * audio
+    * skype
+    * slack
+    * sms
+    
