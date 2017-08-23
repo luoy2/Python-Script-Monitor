@@ -42,6 +42,8 @@ __Optional__
 2. double click the left panel name button to change script name; press `Enter` after finished editing
 3. under `menu` at the top left, you can save/load your configuration files (current script path and name)
 
+[create conda env](https://www.youtube.com/watch?v=hGsZjHFV3vo)
+[monitor walk through](https://www.youtube.com/watch?v=ZEiStEWXi_0)
 
 ## Example
 I put two example files, one for testing log color change, another one for testing python shell status.
